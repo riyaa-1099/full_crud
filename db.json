@@ -1,0 +1,24 @@
+{
+    "notes":[
+    {
+      "_id": "63960d2f3b23edac71716b83",
+      "title": "Science",
+      "description": "riya is a good girl",
+      "userID": "639608ca8a6e106a561a6ec7",
+      "__v": 0
+    },
+    {
+      "_id": "63960d533b23edac71716b85",
+      "title": "Maths",
+      "description": "bhartpur get notes good jaipur",
+      "userID": "639608ca8a6e106a561a6ec7",
+      "__v": 0
+    },
+    {
+      "_id": "63960d693b23edac71716b87",
+      "title": "Polity",
+      "description": "bhartpur kota goa jaipur",
+      "userID": "639608ca8a6e106a561a6ec7",
+      "__v": 0
+    }]
+}
