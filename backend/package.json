@@ -8,9 +8,9 @@
     "mongoose": "^6.8.0",
     "nodemon": "^2.0.20"
   },
-  "name": "day_8",
+  "name": "backend",
   "version": "1.0.0",
-  "main": "Authorisation.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
